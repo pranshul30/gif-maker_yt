@@ -73,6 +73,5 @@ Before you begin, ensure you have Python 3.7+ installed on your system.
     duration_per_frame_seconds = 0.1 # Duration for each frame in seconds
     loop_count = 0 # 0 means loop forever, 1 for one time, etc.
 
-    # ... rest of your code
-    ```
+   
     After running, your generated GIF will be saved in the specified `output_gif_path`.
